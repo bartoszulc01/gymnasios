@@ -14,6 +14,7 @@ header {
       height: 100vh;
       background: url(background.jpg) no-repeat 50% 50%;
       background-size: cover;
+      
 }
 
 .content {
@@ -44,6 +45,7 @@ nav {
       line-height: 50px;
       background: #fff !important;
       font-family:inherit;
+    z-index: 2;
     
 }
 .title{
